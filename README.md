@@ -1,4 +1,4 @@
-# Hi, I'm Vivek Yadav
+# Hi, I'm Vivek kumar
 
 B.Tech CSE (AIML) student learning software development through consistent practice and hands-on projects.
 
