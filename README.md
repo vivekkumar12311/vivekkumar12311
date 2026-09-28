@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Vivek Yadav
 
-<!--
-**vivekkumar12311/vivekkumar12311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE (AIML) student learning software development through consistent practice and hands-on projects.
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python, C++ and Java
+- Data Structures and Algorithms
+- Artificial Intelligence and Machine Learning
+- Git and GitHub
+
+## Focus
+
+I'm working on strengthening my programming fundamentals, building practical projects, and preparing for software development internships.
+
+## Goals
+
+- Build useful, real-world projects
+- Improve problem-solving skills
+- Contribute to open source as I grow
+
+## Connect
+
+- GitHub: [@vivekkumar12311](https://github.com/vivekkumar12311)
